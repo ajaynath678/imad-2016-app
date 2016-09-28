@@ -22,8 +22,10 @@ body {
 .container {
             max-width: 800px;
             margin: 0 auto;
-            color: #565454;
+            color: #000000;         
             font-family: sans-serif;
             padding-left: 20px;
             padding-right: 20;
 }  
+
+
